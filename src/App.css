@@ -1,3 +1,15 @@
+.nav {
+  width: auto;
+  height: 20px;
+  background-color:blue;
+}
+.box2, .box3, .box4 {
+  width: 100px;
+  height: 100px;
+  background-color: darkseagreen;
+  padding: 20px;
+}
+
 .App {
   text-align: center;
 }
@@ -9,7 +21,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: rebeccapurple;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
